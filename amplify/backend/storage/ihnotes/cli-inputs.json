@@ -1,0 +1,14 @@
+{
+  "resourceName": "ihnotes",
+  "policyUUID": "b5b7883d",
+  "bucketName": "ih-amplify-notes",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
